@@ -322,7 +322,7 @@ ul {
     margin-top: 40vh;
 }
 
-@media screen and (min-width: 992px) {
+/* @media screen and (min-width: 992px) {
     .jobs-center {
         width: 90vw;
         display: grid;
@@ -342,4 +342,4 @@ ul {
     .active-btn {
         box-shadow: -2px 0px var(--primary-500);
     }
-}
+} */
