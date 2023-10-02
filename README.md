@@ -4,7 +4,7 @@
 
 The Job Listing Tabs project is a React-based web application that provides an interactive way to display job listings. Can switch between job tabs to view details for different positions. This project fetches job data from an external API and presents it in a tabbed format, making it easy for users to explore job opportunities.
 
-**Project Link**: [Job Listing Tabs - Live Demo](https://your-project-link.com)
+**Project Link**: [Job Listing Tabs - Live Demo](https://job-listing-tabs.onrender.com)
 
 ## Technologies Used
 
@@ -26,4 +26,4 @@ The project employs the following technologies and concepts:
 
 ## Conclusion
 
-The Job Listing Tabs project provides a practical example of building a dynamic web application with React. Can explore job listings effortlessly through the tabbed interface. This project not only enhances your React skills but also demonstrates how to integrate external data sources into your applications. Feel free to use this project as a foundation for further development or customization. Happy coding!
+The Job Listing Tabs project provides a practical example of building a dynamic web application with React. Can explore job listings effortlessly through the tabbed interface. This project also demonstrates how to integrate external data sources into applications.
